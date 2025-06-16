@@ -50,3 +50,7 @@ The app connects to Solana mainnet. Key settings in `/src/utils/constants.ts`:
 - Always verify transaction details before approving
 - App doesn't store private keys or seed phrases
 - All blockchain interactions require explicit approval
+
+##LICENSE
+
+This project is under MIT license
